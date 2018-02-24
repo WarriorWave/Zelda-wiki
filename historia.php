@@ -4,11 +4,11 @@
 		<h2 class="title-a">Historia y Cronologia de "The Legend of Zelda"</h2>
 		<div id="page-one">
 			<article class="init">
-				<img src="images/triforce.png" alt="triforce">
+				<img src="img/triforce.png" alt="triforce">
 			</article>
 			<div class="era-one">
 				<article>
-					skywords
+					Incluyendo el branch wave
 				</article>
 				<article>
 					skywords
@@ -19,4 +19,4 @@
 			</div>
 		</div>
 	</section>
-	<?php include('footer.php'); ?>
+<?php include('footer.php'); ?>
