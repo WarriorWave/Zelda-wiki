@@ -103,17 +103,21 @@ body{
 .page-one {
   display: flex;
   justify-content: space-around;
+  flex-direction: column;
 
 }
 
 .init {
   margin-right: 0;
-  width: 30%;
+  padding: 15px;
 	display: flex;
-	padding: 15px;
+  justify-content: space-around;
+}
+
+.intro {
+  width: 63%;
 }
 
 .era-one {
-  width: 30%;
 	display: flex;
 }
