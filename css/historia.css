@@ -1,0 +1,65 @@
+/* 
+	Paleta de Colores:
+	amarillo suave: #faf4de;
+	fondo obscuro: #241919;
+	rojo:  #cc3b27;
+	verde: #1c4521;
+ */
+body {
+	margin: 0;
+	color: #faf4de;
+}
+
+.header {
+	background-color: #1c4521;
+	margin: 0;
+	font-size: 20px;
+	padding: 3px;
+	display: flex;
+	justify-content: space-between;
+}
+
+.icon {
+	margin: 5px 40px 5px 40px;
+}
+
+.icon img {
+	width: 150px;
+}
+
+.menu {
+
+}
+
+.menu li {
+	display: inline-block;
+	margin-right: 30px;
+
+}
+
+.menu a {
+	color: #FFF;
+	text-decoration: none;
+}
+
+.historia {
+	background: #241919;
+	padding: 10px;
+}
+
+.title-a {
+	margin: 0;
+}
+
+.page-one {
+	
+}
+
+.init {
+	display: inline-block;
+	padding: 15px;
+}
+
+.era-one {
+	display: inline-block;
+}
