@@ -1,15 +1,9 @@
-<!DOCTYPE html>
-<html>
-    <head>
-        <title>Juegos de Zelda</title>
+<?php include('header.php'); ?>
 
-    </head>
-
-    <body>
         <!-- Imagenes de juegos -->
         <table border = "2">
             <tr>
-              <div class="none">          
+              <div class="none">
             <td align = "center" , bgcolor="gray"> <b> Juego </b> </td>
             <td align = "center" , bgcolor="gray"> <b> Descripcion </b> </td>
             <td align = "center" , bgcolor="gray"> <b> Lanzamiento </b> </td>
@@ -97,5 +91,4 @@
             </tr>
         </table>
         <br>
-    </body>
-</html>
+        <?php include('footer.php'); ?>
