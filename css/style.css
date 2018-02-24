@@ -4,12 +4,16 @@ body{
 
     nav{
       margin: 0;
-      background-color: #fff;
+      background-color: #4CAF50;
       font-size: 30px;
-      padding: 2px;
+      padding: 8px;
       box-shadow: 0 5px 10px rgba(0,0,0,0.25);
       display: flex;
       justify-content:space-around;
+      position: fixed;
+      top:0;
+       width:100%;
+       height:auto;
     }
 
   a{
@@ -20,7 +24,7 @@ body{
   }
 
   a:hover{
-    background: red;
+    text-decoration: underline;
   }
 
   .menu-izquierdo{
@@ -55,34 +59,78 @@ body{
   width: 100%;
   height: 60vh;
 }
+#rocknsie-uno{
+  background-image:  url("https://cdn02.nintendo-europe.com/media/images/10_share_images/portals_3/SI_Hub_Zelda_Portal_image1600w.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 80vh;
+  background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
+#rocknsie-dos{
+  background-image:  url("https://cdn02.nintendo-europe.com/media/images/10_share_images/portals_3/SI_Hub_Zelda_Portal_image1600w.jpg");
+  background-size: cover;
+  width: 100%;
+  height: 80vh;
+  background-attachment: fixed;
+   background-position: center;
+   background-repeat: no-repeat;
+   background-size: cover;
+}
+
 
 /* header */
 
 .rock-menu-container{
   display: flex;
+  padding: 40px;
+background: #180c0a;
+}
+
+
+
+.boton-estilos{
+  border-radius: 1px;
+    width: 130px;
+    height: 36px;
+    background: #C2185B;
+    font-size: 15px;
+    box-shadow: 1 1px 3px rgba(0,0,0,0.12);
+
 
 }
 
+.boton-estilos:hover{
+  background: #fff;
+  cursor: pointer;
+}
+
 .rock-text-menu{
-  display: flex;
-  justify-content: center;
-  flex-direction: column;
-  align-items: center;
-  padding: 30px;
-  box-shadow: 0 5px 10px rgba(0,0,0,0.25);
+  color: #fff;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px;
+    margin: 10px 10px;
+    box-shadow: 0 5px 10px rgba(255, 255, 255, 0.25);
+    text-align: justify;
 
 }
 
 .img-parallax{
   background-size: cover;
   width: 100%;
-  height: 60vh;
+  height: 64vh;
 }
 
 .linear{
   display: flex;
-  justify-content: center;
-  flex-direction: column;
+  justify-content: space-around;
+  background: #4CAF50;
 }
 
 /* Secicon Historia */
