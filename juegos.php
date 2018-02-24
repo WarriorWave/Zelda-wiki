@@ -1,24 +1,23 @@
 <?php include('header.php'); ?>
 
         <!-- Imagenes de juegos -->
-        <table border = "2">
+        <table border = "0">
             <tr>
-              <div class="none">
             <td align = "center" , bgcolor="gray"> <b> Juego </b> </td>
             <td align = "center" , bgcolor="gray"> <b> Descripcion </b> </td>
             <td align = "center" , bgcolor="gray"> <b> Lanzamiento </b> </td>
             </tr>
             <tr>
-              </div>
             <td><img src = "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c7/BotW_NA_Switch_Box_Art.png/200px-BotW_NA_Switch_Box_Art.png?version=9128c679e7abafbab2a341c8842e70a4" height = "170 px " width = "170 px " alt = "" />
             </td>
-            <td> <article>
-                <h1 align = "center"> Aliento de lo Salvaje </h1>
+             <td>
+              <article style="container">
+                <th width="200"><h1 align = "center"> Aliento de lo Salvaje </h1>
                 <p align = "justify"> <small> La leyenda de Zelda: Breath of the Wild es el tramo principal XIX de la Leyenda de Zelda serie . Fue lanzado simultáneamente en todo el mundo para Wii U y Nintendo Switch el 03 de marzo de 2017. </small>
                 </p>
-
-                </article>
-                </td>
+                </th>
+              </article>
+            </td>
                 <td> <article>
                     <p align = "center"> <b> 3 de Marzo de 2017 </b> </p>
                     </article>
@@ -26,7 +25,7 @@
             </tr>
         </table>
         <br>
-         <table border = "2">
+         <table>
             <tr>
             <td align = "center" , bgcolor="gray"> <b> Juego </b> </td>
             <td align = "center" , bgcolor="gray"> <b> Descripcion </b> </td>
