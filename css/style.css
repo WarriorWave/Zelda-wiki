@@ -1,5 +1,7 @@
 body{
   margin: 0;
+  margin-top: 40px;
+
 }
 
     nav{
@@ -12,7 +14,7 @@ body{
       justify-content:space-around;
       position: fixed;
       top:0;
-       width:100%;
+      width:100%;
        height:auto;
     }
 
@@ -131,6 +133,9 @@ background: #180c0a;
   display: flex;
   justify-content: space-around;
   background: #4CAF50;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
 }
 
 /* Secicon Historia */
