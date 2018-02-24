@@ -1,16 +1,10 @@
 <footer>
 <section class="linear">
-  <div class="">
     <h4>Informacion</h4>
 
-  </div>
-  <div class="">
     <h4>Informacion</h4>
 
-  </div>
-    <div class="">
       <h4>Informacion</h4>
-    </div>
 </section>
 </footer>
   </body>
