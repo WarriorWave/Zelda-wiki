@@ -84,3 +84,27 @@ body{
   justify-content: center;
   flex-direction: column;
 }
+
+/* Secicon Historia */
+
+.historia {
+	background: #241919;
+	padding: 10px;
+}
+
+.title-a {
+	margin: 0;
+}
+
+.page-one {
+
+}
+
+.init {
+	display: inline-block;
+	padding: 15px;
+}
+
+.era-one {
+	display: inline-block;
+}

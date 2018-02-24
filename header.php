@@ -14,7 +14,7 @@
       <div class="l">
         <a href="#"><i class="fas fa-camera-retro"></i> Inicio</a>
         <a href="#"><i class="fas fa-camera-retro"></i> Juegos</a>
-        <a href="#"><i class="fas fa-camera-retro"></i> Historia</a>
+        <a href="historia.php"><i class="fas fa-camera-retro"></i> Historia</a>
         <a href="#"><i class="fas fa-camera-retro"></i> Foro</a>
       </div>
     </nav>
