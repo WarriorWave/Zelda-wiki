@@ -1,10 +1,13 @@
 <?php include('header.php'); ?>
 
 	<section class="historia">
-		<h2 class="title-a">Historia y Cronologia de "The Legend of Zelda"</h2>
-		<div id="page-one">
+		<h1 class="title"><p>Historia y Cronologia de "The Legend of Zelda"</p></h1>
+		<section class="page-one">
 			<article class="init">
 				<img src="img/triforce.png" alt="triforce">
+				<p>
+					
+				</p>
 			</article>
 			<div class="era-one">
 				<article>
@@ -17,6 +20,6 @@
 					skywords
 				</article>
 			</div>
-		</div>
+		</section>
 	</section>
 <?php include('footer.php'); ?>
