@@ -1,21 +1,20 @@
 <?php include('header.php'); ?>
 
         <!-- Imagenes de juegos -->
-        <table border = "0">
+        <table align = "center">
             <tr>
-            <td align = "center" , bgcolor="gray"> <b> Juego </b> </td>
-            <td align = "center" , bgcolor="gray"> <b> Descripcion </b> </td>
-            <td align = "center" , bgcolor="gray"> <b> Lanzamiento </b> </td>
+            <td height="20" width="200" align = "center" , bgcolor="gray"> <b> Juego </b> </td>
+            <td height="20" width="400"align = "center" , bgcolor="gray"> <b> Descripcion </b> </td>
+            <td height="20" width="170" align = "center" , bgcolor="gray"> <b> Lanzamiento </b> </td>
             </tr>
             <tr>
-            <td><img src = "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/c/c7/BotW_NA_Switch_Box_Art.png/200px-BotW_NA_Switch_Box_Art.png?version=9128c679e7abafbab2a341c8842e70a4" height = "170 px " width = "170 px " alt = "" />
+            <td align = "center"><img src = "img/Alientosalvaje.png" height = "170 px " width = "170 px " alt = "" />
             </td>
-             <td>
+             <td height="200" width="400">
               <article style="container">
-                <th width="200"><h1 align = "center"> Aliento de lo Salvaje </h1>
+                <h1 align = "center"> Aliento de lo Salvaje </h1>
                 <p align = "justify"> <small> La leyenda de Zelda: Breath of the Wild es el tramo principal XIX de la Leyenda de Zelda serie . Fue lanzado simultáneamente en todo el mundo para Wii U y Nintendo Switch el 03 de marzo de 2017. </small>
                 </p>
-                </th>
               </article>
             </td>
                 <td> <article>
@@ -25,14 +24,14 @@
             </tr>
         </table>
         <br>
-         <table>
+         <table align = "center">
             <tr>
-            <td align = "center" , bgcolor="gray"> <b> Juego </b> </td>
-            <td align = "center" , bgcolor="gray"> <b> Descripcion </b> </td>
-            <td align = "center" , bgcolor="gray"> <b> Lanzamiento </b> </td>
+              <td height="20" width="200" align = "center" , bgcolor="gray"> <b> Juego </b> </td>
+              <td height="20" width="400"align = "center" , bgcolor="gray"> <b> Descripcion </b> </td>
+              <td height="20" width="170" align = "center" , bgcolor="gray"> <b> Lanzamiento </b> </td>
             </tr>
             <tr>
-            <td><img src = "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/4/46/A_Link_Between_Worlds_cover.jpg/250px-A_Link_Between_Worlds_cover.jpg?version=97a48e776a75879dd0bfb85d0dd128a1" height = "170 px " width = "170 px " alt = "" />
+            <td align = "center"><img src = "img/Unenlaceentremundos.jpg" height = "170 px " width = "170 px " alt = "" />
             </td>
             <td> <article>
                 <h1 align = "center"> Hay un vínculo entre los mundos </h1>
@@ -47,14 +46,14 @@
         </table>
         <br>
         <br>
-         <table border = "2">
+         <table align = "center">
             <tr>
-            <td align = "center" , bgcolor="gray"> <b> Juego </b> </td>
-            <td align = "center" , bgcolor="gray"> <b> Descripcion </b> </td>
-            <td align = "center" , bgcolor="gray"> <b> Lanzamiento </b> </td>
+              <td height="20" width="200" align = "center" , bgcolor="gray"> <b> Juego </b> </td>
+              <td height="20" width="400"align = "center" , bgcolor="gray"> <b> Descripcion </b> </td>
+              <td height="20" width="170" align = "center" , bgcolor="gray"> <b> Lanzamiento </b> </td>
             </tr>
             <tr>
-            <td><img src = "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/3/38/Twilight_Princess_GCN_US_boxart.jpg/260px-Twilight_Princess_GCN_US_boxart.jpg?version=edd1595177da67a77aa04e1c709f50f5" height = "170 px " width = "170 px " alt = "" />
+            <td align = "center"><img src = "img/princesacrepusculo.jpg" height = "170 px " width = "170 px " alt = "" />
             </td>
             <td> <article>
                 <h1 align = "center"> Princesa del Crepúsculo </h1>
@@ -68,14 +67,14 @@
             </tr>
         </table>
         <br>
-         <table border = "2">
+         <table align = "center">
             <tr>
-                <td align = "center" , bgcolor="gray"> <b> Juego </b> </td>
-                <td align = "center" , bgcolor="gray"> <b> Descripcion </b> </td>
-                <td align = "center" , bgcolor="gray"> <b> Lanzamiento </b> </td>
+              <td height="20" width="200" align = "center" , bgcolor="gray"> <b> Juego </b> </td>
+              <td height="20" width="400"align = "center" , bgcolor="gray"> <b> Descripcion </b> </td>
+              <td height="20" width="170" align = "center" , bgcolor="gray"> <b> Lanzamiento </b> </td>
             </tr>
             <tr>
-            <td><img src = "https://d1u5p3l4wpay3k.cloudfront.net/zelda_gamepedia_en/thumb/9/98/TFH_NA_Box_Art.png/250px-TFH_NA_Box_Art.png?version=7ea7aedc50f97f61dc2fdefa5dc9cf12" height = "170 px " width = "170 px " alt = "" />
+            <td align = "center"><img src = "img/Triforceheroes.png" height = "170 px " width = "170 px " alt = "" />
             </td>
             <td> <article>
                 <h1 align = "center"> Tri Force Heroes </h1>
