@@ -141,6 +141,7 @@ background: #180c0a;
 /* Secicon Historia */
 
 .historia {
+  margin-top: 57px;
   font-family: 'Bellefair', serif;
   color: white;
 	background: #241919;
@@ -148,12 +149,14 @@ background: #180c0a;
 }
 
 .title {
+  padding-top: 30px;
+  border-top: 1px solid white;
   display: flex;
   justify-content: center;
 	margin: 0;
 }
 
-.page-one {
+.secc-one {
   display: flex;
   justify-content: space-around;
   flex-direction: column;
@@ -162,9 +165,15 @@ background: #180c0a;
 
 .init {
   margin-right: 0;
-  padding: 15px;
+  padding: 0 15px 35px 15px;
+  border-bottom: 1px solid white;
 	display: flex;
   justify-content: space-around;
+}
+
+.init img {
+  margin-top: -60px;
+  margin-left: 0px;
 }
 
 .intro {
@@ -173,4 +182,30 @@ background: #180c0a;
 
 .era-one {
 	display: flex;
+  flex-direction: column;
+}
+
+.skyward {
+  padding: 30px 20px 20px 20px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.skyward img {
+    border-radius: 20px;
+  }
+
+
+.skyward .text {
+  display: flex;
+  flex-direction: column;
+  padding: 0px 20px;
+}
+
+.skyward .text h3 {
+  margin-top: 0px;  
+}
+
+.footer-h .linear {
+  position: relative !important;
 }

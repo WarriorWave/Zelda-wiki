@@ -2,7 +2,7 @@
 
 	<section class="historia">
 		<h1 class="title"><p>Historia y Cronologia de "The Legend of Zelda"</p></h1>
-		<section class="page-one">
+		<section class="secc-one">
 			<article class="init">
 				<img src="img/triforce.png" alt="triforce">
 				<p class="intro">
@@ -12,8 +12,14 @@
 				</p>
 			</article>
 			<div class="era-one">
-				<article>
-					Incluyendo el branch wave
+				<article class="skyward">
+					<img src="img/skyward_h1.jpg" alt="zelda skyward" height="200px">
+					<div class="text">
+						<h3>Empieza a escribirse la historia</h3>
+						<p>
+							Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repudiandae tenetur, inventore, fugit aut eaque labore doloremque cupiditate, corporis modi architecto eveniet quo perspiciatis quia eos maxime soluta ad amet dolore.
+						</p>
+					</div>
 				</article>
 				<article>
 					skywords
@@ -24,4 +30,7 @@
 			</div>
 		</section>
 	</section>
-<?php include('footer.php'); ?>
+<div class="footer-h">
+	<?php include('footer.php'); ?>	
+</div>	
+
