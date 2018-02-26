@@ -133,7 +133,7 @@ background: #180c0a;
   display: flex;
   justify-content: space-around;
   background: #4CAF50;
-  position: absolute;
+  position: relative;
   bottom: 0;
   width: 100%;
 }
